@@ -1,0 +1,10 @@
+
+{
+  "Title": "Title",
+  "EmployeeCode": "EmployeeCode",
+  "EmployeeName": "{FirstName} {LastName}",
+  "Designation": "Department",
+  "StartDate": "HireDate",
+  "PracticeHead": "ReportTo",
+  "Competancy": "timestamp_column"
+}
